@@ -20,6 +20,14 @@
   <img src="screenshots/5_prayer_times.png" width="18%" alt="Prayer Times" />
 </p>
 
+<p align="center">
+  <img src="screenshots/6_qibla.png" width="18%" alt="Qibla Compass" />
+  <img src="screenshots/7_quran_index.png" width="18%" alt="Quran Index" />
+  <img src="screenshots/8_mushaf_fatihah.png" width="18%" alt="Al-Fatihah Mushaf" />
+  <img src="screenshots/9_about.png" width="18%" alt="About App" />
+  <img src="screenshots/10_mushaf_page.png" width="18%" alt="Mushaf Page" />
+</p>
+
 ---
 
 ## ✨ مميزات التطبيق | Key Features
@@ -64,7 +72,7 @@
 
 1. **تحميل الكود البرمجي (Clone):**
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/ahmedgaafar233/tasbeeh.git
    cd tasbeeh_app
    ```
 
