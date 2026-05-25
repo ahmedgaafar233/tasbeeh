@@ -1,11 +1,29 @@
 # 🕌 تطبيق تسبيح وأذكار ومواقيت الصلاة | Tasbeeh App
 
 <p align="center">
-  <img src="assets/icon/icon.png" width="120" alt="Tasbeeh App Icon" />
+  <img src="assets/icons/app_icon.png" width="120" alt="Tasbeeh App Icon" />
 </p>
 
 <p align="center">
   <strong>تطبيق إسلامي متكامل يجمع بين روعة التصميم العصري ودقة الأداء البرمجي، رفيقك اليومي لذكر الله ومواقيت الصلاة.</strong>
+</p>
+
+<p align="center">
+  <a href="release/Tasbeeh-arm64-v8a.apk" download>
+    <img src="https://img.shields.io/badge/Download-ARM64--v8a%20APK-gold?style=for-the-badge&logo=android&logoColor=white" alt="Download ARM64 APK" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="release/Tasbeeh-universal.apk" download>
+    <img src="https://img.shields.io/badge/Download-Universal%20APK-darkgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download Universal APK" />
+  </a>
+</p>
+
+---
+
+## 🎬 استعراض التطبيق | App Preview Slideshow
+
+<p align="center">
+  <img src="screenshots/app_preview.gif" width="280" alt="App Preview Slideshow" />
 </p>
 
 ---
