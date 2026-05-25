@@ -1,0 +1,29 @@
+Running Gradle task 'assembleRelease'...                        
+lib/src/features/prayer/prayer_page.dart:147:47: Error: Property 'latitude' cannot be accessed on 'Position?' because it is potentially null.
+ - 'Position' is from 'package:geolocator_platform_interface/src/models/position.dart' ('../.pub-cache/hosted/pub.dev/geolocator_platform_interface-4.2.6/lib/src/models/position.dart').
+Try accessing using ?. instead.
+            locationName = 'تحديد تلقائي (${p.latitude.toStringAsFixed(2)}, ${p.longitude.toStringAsFixed(2)})';
+                                              ^^^^^^^^
+lib/src/features/prayer/prayer_page.dart:147:81: Error: Property 'longitude' cannot be accessed on 'Position?' because it is potentially null.
+ - 'Position' is from 'package:geolocator_platform_interface/src/models/position.dart' ('../.pub-cache/hosted/pub.dev/geolocator_platform_interface-4.2.6/lib/src/models/position.dart').
+Try accessing using ?. instead.
+            locationName = 'تحديد تلقائي (${p.latitude.toStringAsFixed(2)}, ${p.longitude.toStringAsFixed(2)})';
+                                                                                ^^^^^^^^^
+Target kernel_snapshot_program failed: Exception
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileFlutterBuildRelease'.
+> Process 'command '/home/aamy/snap/flutter/common/flutter/bin/flutter'' finished with non-zero exit value 1
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 32s
+Running Gradle task 'assembleRelease'...                           33.7s
+Gradle task assembleRelease failed with exit code 1
